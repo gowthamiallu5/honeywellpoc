@@ -1,0 +1,6 @@
+branch-defaults:
+  master:
+    environment: Augmentoreact-env
+    group_suffix: null
+global:
+  profile: null
