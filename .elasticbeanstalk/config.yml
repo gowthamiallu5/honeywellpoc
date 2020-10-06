@@ -4,8 +4,8 @@ branch-defaults:
     group_suffix: null
 environment-defaults:
   Augmentoreact-env:
-    branch: master
-    repository: honeywellpoc
+    branch: null
+    repository: null
 global:
   application_name: augmentoreact
   default_ec2_keyname: null
